@@ -1,3 +1,2 @@
-# Calculator
-1. **calculator.py**: module with algebraic functions
-2. - add, subtract, ...
+### Calculator
+1. calculator.py: module with algebraic functions
